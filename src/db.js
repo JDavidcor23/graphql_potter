@@ -15,5 +15,5 @@ connect(MONGODB_URI, {
     console.log("Database connected");
   })
   .catch((err) => {
-    console.log(MONGODB_URI);
+    console.log(err);
   });
