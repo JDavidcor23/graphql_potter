@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Neville Longbottom",
+    "isAlive": true,
+    "img": "https://vignette.wikia.nocookie.net/harrypotter/images/3/3c/Neville_Longsbottom.jpg/revision/latest?cb=20150924031756&path-prefix=es"
+  },
+  {
+    "name": "Luna Lovegood",
+    "isAlive": true,
+    "img": "https://vignette.wikia.nocookie.net/harrypotter/images/6/69/Luna_Lovegood_profile.jpg/revision/latest?cb=20150821015817&path-prefix=es"
+  }
+]
